@@ -12,3 +12,4 @@ Rails.application.config.assets.version = '1.0'
 Rails.application.config.assets.precompile += %w( cs.jpg )
 Rails.application.config.assets.precompile += %w( ruby.jpg )
 Rails.application.config.assets.precompile += %w( rtp.jpg )
+Rails.application.config.assets.precompile += %w( logo.png )
